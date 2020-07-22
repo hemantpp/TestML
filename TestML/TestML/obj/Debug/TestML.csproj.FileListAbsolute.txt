@@ -1,0 +1,9 @@
+c:\users\heman\documents\visual studio 2015\Projects\TestML\TestML\bin\Debug\TestML.exe.config
+c:\users\heman\documents\visual studio 2015\Projects\TestML\TestML\obj\Debug\TestML.csprojResolveAssemblyReference.cache
+c:\users\heman\documents\visual studio 2015\Projects\TestML\TestML\obj\Debug\TestML.Form1.resources
+c:\users\heman\documents\visual studio 2015\Projects\TestML\TestML\obj\Debug\TestML.Properties.Resources.resources
+c:\users\heman\documents\visual studio 2015\Projects\TestML\TestML\obj\Debug\TestML.csproj.GenerateResource.Cache
+c:\users\heman\documents\visual studio 2015\Projects\TestML\TestML\bin\Debug\TestML.exe
+c:\users\heman\documents\visual studio 2015\Projects\TestML\TestML\bin\Debug\TestML.pdb
+c:\users\heman\documents\visual studio 2015\Projects\TestML\TestML\obj\Debug\TestML.exe
+c:\users\heman\documents\visual studio 2015\Projects\TestML\TestML\obj\Debug\TestML.pdb
